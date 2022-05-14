@@ -1,5 +1,5 @@
 ## Hi Everyone, I am Ronish Shrestha 👋
-### I am a Frontend Developer, Designer and Machine Learning Enthusiasts 
+### I am a Frontend Developer, Designer and ML Enthusiasts 
 
 Here are some ideas to get you started:
 
@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Node.js
 - 🤔 I’m looking for help with React.js
-- 💬 Ask me about anything related to frontend development
+- 💬 Ask me about anything related to frontend development, web designing
 - 📫 How to reach me: ... [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronish_shrestha" height="20" width="30"/>](https://www.linkedin.com/in/ronish-shrestha/), [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronish_shrestha" height="20" width="30"/>](https://www.facebook.com/ronish.shrestha.39)
 <!-- - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...Learning never ends
