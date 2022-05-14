@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... React.js
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Facebook](https://www.facebook.com/ronish.shrestha.39)
-- 😄 Pronouns: ...He/His
+<!-- - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...Learning never ends
+ -->
