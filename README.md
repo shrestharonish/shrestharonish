@@ -12,14 +12,6 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...Learning never ends
  -->
- 
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=shrestharonish&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> -->
-
-
-<!-- <a href="https://github.com/shrestharonish/github-stats">
-<img src="https://github.com/shrestharonish/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a> -->
 
 <h2 align="center">Github Statistics 📈:</h2>
  
