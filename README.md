@@ -14,6 +14,7 @@ Here are some ideas to get you started:
  -->
 
 <h2 align="center">Github Statistics 📈:</h2>
+- Currently Github Statistics 📈 is not working.
  
  <!-- 
  <div align="center">
