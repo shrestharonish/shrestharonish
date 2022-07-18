@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Github Statistics 📈:</h2>
  
+ <!-- 
  <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrestharonish&show_icons=true&count_private=true&theme=dracula" width="400">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrestharonish&theme=dracula" width="400">
@@ -25,3 +26,4 @@ Here are some ideas to get you started:
   <hr>
  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=shrestharonish&area=true&hide_border=true&theme=dracula">
  </div>
+ -->
